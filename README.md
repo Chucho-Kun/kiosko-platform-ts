@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
@@ -13,6 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
+### Problemas con la libreria de Prisma
+La importación del seed se llevara acabo en el repositorio de Kiosco-NextJS por problemas de actualización reciente de Prisma
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
